@@ -1,1 +1,3 @@
-# project3-ML
+# Identify the age of speaker by Speech recognition
+
+<b> **Abstract** </b>: One of the problems in automatic speaker recognition systems is voice changes due to factors environmental such as external noises, from vocal effort when raising or lowering the voice intentionally or hoarseness or when using unusual speech accents that correspond to specific regions or also the age of the people. This last point is analyzed in this work with which it is intended to find those characteristics that allow identifying the age of the people from their identified voice.
